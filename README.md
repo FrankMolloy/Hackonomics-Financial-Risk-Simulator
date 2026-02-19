@@ -1,4 +1,4 @@
-🚀 RiskWise – Monte Carlo Financial Risk Simulator
+🚀 RiskWise — Financial Risk Simulator (Monte Carlo)
 
 Live Demo: https://riskwise-v04j.onrender.com
 
@@ -8,7 +8,7 @@ What It Does
 
 RiskWise is a cloud-deployed financial risk simulator that models long-term investment outcomes under uncertainty.
 
-Instead of showing a single forecast, it runs 2,000–5,000 Monte Carlo simulations per scenario to visualise a distribution of possible outcomes.
+Instead of showing a single forecast, it runs 1,000–5,000 Monte Carlo simulations per scenario to visualise a distribution of possible outcomes.
 
 It helps users:
 
